@@ -1,0 +1,19 @@
+{
+    "database" : {
+        "host" : "localhost",
+        "port" : 3306,
+        "user" : "root",
+        "password" : "",
+        "database" : "node-mysql-signup-verification-api"
+    },
+    "secret": "RSmpo2AB20u0qYdfX1En5w==",
+    "emailFrom": "info@node-mysql-signup-verification-api.com",
+    "smtpOptions" : {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "auth": {
+            "user": "esmeralda.sipes89@ethereal.email",
+            "pass": "W2xCgHpdAeAgybwXfN"
+        }
+    }
+}
